@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: ui-app
-        image: exastro/epochsampleappui:master.20210708183910
+        image: eijinaka2021/epoch-sample-ui:main.20211116-131002
         ports:
         - name: http
           containerPort: 8000
